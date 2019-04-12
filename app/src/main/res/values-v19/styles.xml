@@ -1,0 +1,9 @@
+<resources>
+
+
+    <style name="AppTheme.base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+
+
+</resources>
